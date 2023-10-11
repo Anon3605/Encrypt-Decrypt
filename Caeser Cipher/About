@@ -1,0 +1,16 @@
+Ceaser Cipher:
+The Caesar Cipher, used by Julius Caesar around 58 BC, is a substitution cipher that 
+shifts letters in a message to make it unreadable if intercepted. 
+To decrypt, the receiver reverses the shift. Arab mathematician Al-Kindi broke the
+Caesar Cipher using frequency analysis, which exploits patterns in letter frequencies.
+Note: This process of Al-Kindi is called bruteforce in cyber security. 
+
+Basically Ceaser Cipher doesn't contains speacial characters or what so ever.
+It only uses alphabets and other series.
+
+There are many types of ceaser cipher codes that are which are labelled as ROTATE or simply ROT.
+As we see, ceaser cipher is kind of shifting the alphabets or characters, that's why rotate means the same;
+As we can see, ROT1,ROT2, ROT3, ROT4, ROT5 .....ROT26 means only shifting alphabets to 1, 2, 3, 4, 5 ... 26 indexes.
+But 256 Characters or ASCII values are more fancy than 26 alphabets shifting, isn't that so?
+
+For more info: http://datagenetics.com/blog/july42015/index.html
